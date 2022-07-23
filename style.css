@@ -2,7 +2,7 @@ body {
     font-size: 18px;
     color: #6c767d;
     background-color: #ebf1f5;
-    background-image: url(assets/background.png);
+    background-image: url(https://s2.loli.net/2022/07/23/DGMu7AVLngf1EWP.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
@@ -143,7 +143,7 @@ strike {
 }
 
 .photo-bg {
-    background-image: url(assets/head.jpg);
+    background-image: url(https://s2.loli.net/2022/07/23/UF5BWsJCrYeQd48.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
